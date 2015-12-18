@@ -1,0 +1,10 @@
+JQL_STR : project = OPTIMA AND status in ("In Progress", "To Do") order by rank
+http://jira.sistemaits.com/rest/api/2/search?jql=<JQL_STR>
+
+
+http://jira.sistemaits.com/rest/greenhopper/1.0/rank
+customFieldId: 11102
+issueKeys: ["OPTIMA-548"]
+0: "OPTIMA-548"
+rankAfterKey: "OPTIMA-1559"
+rankBeforeKey: "OPTIMA-1474"

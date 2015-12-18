@@ -1,0 +1,23 @@
+{
+  "name": "aquamaniac",
+  "description": "aquamaniac",
+  "dependencies": {
+    "requirejs": "",
+    "bacon": "",
+    "bacon.model": "",
+    "bootstrap": ""
+  },
+  "authors": [
+    "aleclofabbro <alessandro.giansanti@gmail.com>"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
